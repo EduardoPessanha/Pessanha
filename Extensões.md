@@ -1,4 +1,4 @@
-Estas são as eztensões instaladas e habilitadas no VSCode no Linux:
+Estas são as extensões instaladas e habilitadas no VSCode no Linux:
  - Atom Material Theme
  - Atom One Dark Sintax Theme
  - Atom One Dark Theme
@@ -9,7 +9,7 @@ Estas são as eztensões instaladas e habilitadas no VSCode no Linux:
  - Docker
  - GitLens - Git supercharged
  - Jinja
- - Live Server (bom)
+ - Live Server (gostei)
  - MagicPython
  - Node.js Exec
  - Oceanic Next (Sublime Babel)
@@ -23,3 +23,8 @@ Estas são as eztensões instaladas e habilitadas no VSCode no Linux:
  - Visual Studio Intellicode
  - vscode-icons
  - XML Tools
+ - ESlint - Desbilitado
+ - JS-CSS-HTML Formatter - Desbilitado
+ - Prettier - Code formatter - Desbilitado
+ - Vim - Desbilitado
+ 
