@@ -1,0 +1,25 @@
+Estas são as eztensões instaladas e habilitadas no VSCode no Linux:
+ - Atom Material Theme
+ - Atom One Dark Sintax Theme
+ - Atom One Dark Theme
+ - Beautify
+ - Bracket Pair Coloraizer
+ - Coblat2 Thene Official
+ - Django
+ - Docker
+ - GitLens - Git supercharged
+ - Jinja
+ - Live Server (bom)
+ - MagicPython
+ - Node.js Exec
+ - Oceanic Next (Sublime Babel)
+ - Opencv Snippets
+ - Portuguese (Brazil) Language
+ - Pygme Snippets
+ - Python
+ - Python Extension Pack
+ - Python VSCode
+ - Sublime VSCode Theme
+ - Visual Studio Intellicode
+ - vscode-icons
+ - XML Tools
