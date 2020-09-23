@@ -4,7 +4,7 @@ Estas são as extensões instaladas e habilitadas no VSCode no Linux:
  - Atom One Dark Theme
  - Beautify
  - Bracket Pair Coloraizer
- - Coblat2 Thene Official *
+ - Coblat2 Thene Official (tema em uso) *
  - Django *
  - Docker *
  - GitLens - Git supercharged *
