@@ -13,7 +13,7 @@ Estas são as extensões instaladas e habilitadas no VSCode no Linux:
  - MagicPython *
  - Node.js Exec
  - Oceanic Next (Sublime Babel)
- - Opencv Snippets
+ - Opencv Snippets (para ativar o CV2)
  - Portuguese (Brazil) Language *
  - Pygame Snippets
  - Python *
